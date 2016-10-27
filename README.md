@@ -1,2 +1,2 @@
-# Raspi_Relay
-Switch on/off your light with the Raspberry Pi
+# Raspberry Realy
+Switch on/off your relays with the Raspberry Pi
